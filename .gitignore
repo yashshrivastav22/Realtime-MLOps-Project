@@ -1,4 +1,5 @@
 data/
+.dvc/
 models/*.pkl
 *.pyc
 __pycache__/
